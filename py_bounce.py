@@ -34,7 +34,7 @@ root.update()
 
 
 
-# Required C L A S S E S : 
+# Required C L A S S E S :
 # creating the class ball :
 class ball :
     def __init__(self, canvas, paddle, color) :
